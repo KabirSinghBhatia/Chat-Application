@@ -38,7 +38,7 @@ npm run dev
 
 ## Documentation
 
-Navigate to the index route in the browser (ex: `http://localhost:$PORT`, where `$PORT` is the configured `$PORT` or `$HOST_PORT` depending on your environment).
+Navigate to the index route in the browser (ex: `http://localhost:$PORT`, where `$PORT` is the configured port depending on your environment).
 
 ## Contributing
 
