@@ -1,10 +1,10 @@
-# Chat App
+# Chat Application
 
 It is a simple realtime chat application where users can create and join different chat rooms and communicate with each other.
 
 ## Characteristics & Features
 
-1. Made using Node.js, Express.js, SocketIO.
+1. Made using Node.js, Express.js, SocketIO, Mustache.
 2. Realtime communication.
 3. Users can create or join different chat rooms.
 4. Text messages, image and location can be sent.
